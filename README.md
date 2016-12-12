@@ -3,5 +3,6 @@ This project has some implementations of well known algorithms , basicly depend 
 
 Here is some of them , (still adding more)
 
-Dynamic Programming
-Text Search Algorithms (FiniteAutomata , KMP)
+1) Dynamic Programming
+<br>
+2) Text Search Algorithms (FiniteAutomata , KMP)
