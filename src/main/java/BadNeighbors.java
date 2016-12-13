@@ -16,7 +16,7 @@ public class BadNeighbors {
 		int max1 = max(donations, 2, true) + donations[0];
 		int max2 = max(donations, 1, false);
 
-		return Math.max(max1, max2);
+		return Math.max(max2, max1);
 	}
 
 	public static int max(int[] donations, int where, boolean onegave) {
